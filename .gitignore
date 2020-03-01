@@ -1,6 +1,7 @@
 *.kdev4
 nbproject
 build
+__pycache__
 
 # Prerequisites
 *.d
