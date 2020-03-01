@@ -1,5 +1,5 @@
-# cozy
-cozy - 4k executable gfx entry by NR4/Team210, shown at Under Construction 2k19
+# Dubai
+4k exe gfx entry by NR4/Team210 at Revision 2k20
 
 # Licenses
 * source code is copyright (c) 2019 Alexander Kraus <nr4@z10.info> and available under GPLv3; see LICENSE.
