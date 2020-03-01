@@ -1,3 +1,7 @@
+*.kdev4
+nbproject
+build
+
 # Prerequisites
 *.d
 
